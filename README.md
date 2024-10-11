@@ -3,7 +3,9 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Hamada Salhab</h1>
-  <h3>Computer Science student @<a link='https://innopolis.university'>Innopolis University</a>, specializing in Applied Artificial Intelligence</h3>
+  <h3>
+    <a href='https://innopolis.university'>Innopolis University</a> graduate, currently building <a href='https://github/julep-ai/julep'>Julep</a>
+  </h3>
 </div>
 <br />
 
