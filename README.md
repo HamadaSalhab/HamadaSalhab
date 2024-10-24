@@ -13,6 +13,5 @@
 
 <p align="center">
   <a href="mailto:hamada.a.salhab@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-brand-brands-gmail-logo-logos-icon-22.png" width="40" height="40" alt="email"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hamada_salhab/"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" width="40" height="40" alt="instagram"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hamada-salhab"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" width="40" height="40" alt="linkedin"/></a>
 </p>
