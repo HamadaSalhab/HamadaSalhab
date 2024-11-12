@@ -1,4 +1,3 @@
-[![Github Stars](https://img.shields.io/badge/stars-nominate-brightgreen?logo=github)](https://stars.github.com/nominate/)
 ![Profile Views](https://komarev.com/ghpvc/?username=HamadaSalhab&style=flat)
 
 <div align="center">
