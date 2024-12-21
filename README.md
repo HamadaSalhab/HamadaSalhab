@@ -1,6 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HamadaSalhab&style=flat)
 
-<h1 align="center">Hi 👋, I'm Hamada Salhab</h1>
 <h3 align="center">
   <a href='https://innopolis.university'>Innopolis University</a> graduate, currently building <a href='https://github/julep-ai/julep'>Julep</a>
 </h3>
