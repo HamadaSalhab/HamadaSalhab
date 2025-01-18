@@ -5,10 +5,6 @@
 </h3>
 <br />
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HamadaSalhab&theme=dark&hide_border=true&border_radius=&card_width=400&card_height=170" alt="GitHub Streak" /></a>
-</div>
-
 <h2 align="center">Connect</h2>
 
 <p align="center">
